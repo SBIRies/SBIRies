@@ -65,7 +65,6 @@ Goal       : IT Infrastructure Engineer
     <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git&perline=3" />
   </a>
 </p>
-<br>
 <p align="center">
   <a href="https://img.shields.io">
     <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
