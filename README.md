@@ -1,24 +1,8 @@
-
-
-<!--
-**SBIRies/SBIRies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Hey,%20I'm%20Farrell%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=58&descSize=16"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A6E8,50:203a43,100:00A6E8&height=200&section=header&text=Hey,%20I'm%20Farrell%20👋&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=IT%20Infrastructure%20Enthusiast%20•%20Lifelong%20Learner&descAlignY=58&descSize=16"/>
 
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=SBIRies&color=2c5364&style=flat-square&label=Profile+Views" alt="Profile views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Collaborate-2c5364?style=flat-square"/>
   &nbsp;
@@ -95,6 +79,7 @@ goal       : IT Infrastructure Engineer
 | 🎓 Sertifikasi | 🏛️ Lembaga | 📌 Status |
 |---|---|---|
 | Sertifikasi Kompetensi Profesi | LSP / SKK / BNSP | ✅ Certified |
+| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ Certified |
 | SMK Trimulia — Teknik Komputer & Jaringan | Kemendikbud | ✅ Graduate |
 | S1 Sistem Informasi | Universitas Terbuka | 🔄 In Progress |
 
@@ -121,21 +106,21 @@ goal       : IT Infrastructure Engineer
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SBIRies&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SBIRies&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SBIRies&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ### 📅 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SBIRIes&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </div>
 
 ---
@@ -159,15 +144,15 @@ goal       : IT Infrastructure Engineer
 
 <div align="center">
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
+  <a href="mailto:defarel06@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/defarelpermana">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/SBIRies">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
@@ -178,6 +163,3 @@ goal       : IT Infrastructure Engineer
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer&fontSize=16&fontColor=ffffff&text=Infrastructure%20yang%20solid%20adalah%20pondasi%20dari%20semua%20hal%20digital.&fontAlignY=65&descSize=12"/>
 </div>
-
-
-<p align="center"><i>"Infrastructure yang solid adalah pondasi dari semua hal digital."</i></p>
