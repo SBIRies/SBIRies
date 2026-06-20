@@ -15,12 +15,12 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name      : Defarel Permana
-Location   : Indonesia 🇮🇩
-Education  : S1 Sistem Informasi — Universitas Terbuka (ongoing)
-Current Role: Administrasi Sistem Operasi
-Prev Exp   : Production Assembly Staff @ Zyrex
-Goal       : IT Infrastructure Engineer
+Name          : Defarel Permana
+Location      : Indonesia 🇮🇩
+Education     : S1 Sistem Informasi — Universitas Terbuka (ongoing)
+Current Role  : Administrasi Sistem Operasi
+Prev Exp      : Production Assembly Staff @ Zyrex
+Goal          : IT Infrastructure Engineer
 ```
 
 > Saya memulai karir dari jalur teknis — merakit unit produksi di Zyrex, lalu beralih ke dunia administrasi sambil terus mendalami IT. Sekarang saya kuliah sambil kerja, dan di luar jam kerja saya sibuk mengkonfigurasi jaringan, eksplorasi hardware, dan belajar web development.
@@ -105,7 +105,7 @@ Goal       : IT Infrastructure Engineer
 ## 🎯 Current Goals
 
 ```
-🔲  Mendalami Cisco & MikroTik ke level lanjut
+🔲  Mendalami infrastruktur jaringan tingkat lanjut, terutama pada teknologi Cisco dan MikroTik.
 🔲  Membangun home lab jaringan pribadi
 🔲  Menyelesaikan S1 Sistem Informasi @ Universitas Terbuka
 🔲  Membangun portofolio front-end web development
