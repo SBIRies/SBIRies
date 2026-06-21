@@ -93,8 +93,8 @@ Goal          : IT Infrastructure Engineer
 
 | 🎓 Sertifikasi | 🏛️ Lembaga | 📌 Status |
 |---|---|---|
-| Sertifikasi Kompetensi Profesi | LSP / SKK / BNSP | ✅ [Certified](https://s.id/SertifikatBNSPDefarel) |
-| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ [Certified](https://s.id/SertifikatMTCNADefarel) |
+| Sertifikasi Kompetensi Profesi | LSP / SKK / BNSP | ✅ [Certified](https://drive.google.com/file/d/1WON84g8U0d0mKET7bO70jFU5PJKBGlT9/view?usp=drive_link) |
+| Sertifikasi Kompetensi Internasional | MikroTik MTCNA | ✅ [Certified](https://drive.google.com/file/d/1HbpY0GUETW6Yzn5QHLiinSBluH5Bs9SU/view?usp=drive_link) |
 | SMK Trimulia — Teknik Komputer & Jaringan | Kemendikbud | ✅ Graduate |
 | S1 Sistem Informasi | Universitas Terbuka | 🔄 In Progress |
 
@@ -142,7 +142,7 @@ Goal          : IT Infrastructure Engineer
 
 <table>
   <tr>
-    <td>🏊 Rutin berenang & jogging di kawasan <strong>GBK</strong></td>
+    <td>🎌 Saya suka menonton <strong>Anime</strong> secara maraton di waktu luang saya!</td>
     <td>📈 Trading saham aktif dengan <strong>analisis teknikal</strong></td>
   </tr>
   <tr>
